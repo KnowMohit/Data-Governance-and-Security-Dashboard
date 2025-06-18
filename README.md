@@ -1,9 +1,27 @@
-# Data-Governance-and-Security-Dashboard
+# 🛡️ Data Governance and Security Dashboard
+This project presents a comprehensive Data Governance and Security Dashboard developed using SQL, Excel, and Tableau. It aims to monitor, analyze, and visualize key metrics related to data quality, access control, compliance, and security incidents within an organization.
 
-Project Title: Data Governance and Security Dashboard
+## 🔧 Tools & Technologies Used
+SQL: Queried databases to extract relevant data for governance and security KPIs.
 
-Tools: Tableau Desktop, SQL, Excel
+Excel: Cleaned and pre-processed the raw data, applied formulas, and organized datasets.
 
-Domain: Data Analyst
+Tableau: Built dynamic and interactive dashboards to visualize data trends and insights.
 
-The World Bank’s ESG Data Draft dataset provides information on 17 key sustainability themes spanning environmental, social, and governance categories. In order to shift financial flows so that they are better aligned with global goals, the World Bank Group (WBG) is working to provide financial markets with improved data and analytics that shed light on countries’ sustainability performance. Along with new information and tools, the World Bank will also develop research on the correlation between countries’ sustainability performance and the risk and return profiles of relevant investments.
+## 📊 Key Features
+Access Monitoring: Track user logins, access frequency, and unauthorized attempts.
+
+Compliance Metrics: Overview of policy violations, audit trails, and remediation status.
+
+Data Quality: Insights into duplicate records, missing values, and data validation issues.
+
+Security Incidents: Visual summary of alerts, breaches, and response timelines.
+
+## 🎯 Outcome
+The dashboard helps decision-makers:
+
+Maintain better oversight on sensitive data access.
+
+Identify compliance gaps and potential risks.
+
+Improve organizational data hygiene and trustworthiness.
